@@ -29,7 +29,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/raflinurh/109082500152_Rafli/blob/main/modul5/output/output-soal1.go)
+![Screenshot Output Unguided 1_1](https://github.com/rflnhdyt626/109082500152_Rafli/blob/main/modul5/output/output-soal1.go)
 Program ini berfungsi untuk menghitung bilangan Fibonacci ke-n menggunakan pemanggilan fungsi rekursif, di mana pengguna memasukkan sebuah nilai n dan program akan menampilkan nilai Fibonacci yang sesuai.
 
 ### 2. Buatlah sebuah program yang digunakan untuk menampilkan pola bintang berikut ini dengan menggunakan fungsi rekursif. N adalah masukan dari user.
@@ -63,7 +63,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/raflinurh/109082500152_Rafli/blob/main/modul5/output/output-soal2.go)
+![Screenshot Output Unguided 1_1](https://github.com/rflnhdyt626/109082500152_Rafli/blob/main/modul5/output/output-soal2.go)
 Program ini berfungsi untuk menampilkan pola bintang berbentuk segitiga secara bertahap dari 1 hingga N baris menggunakan fungsi rekursif. Pengguna memasukkan sebuah bilangan N, kemudian program akan mencetak baris pertama dengan 1 bintang, baris kedua dengan 2 bintang, dan seterusnya sampai baris ke-N dengan jumlah bintang sebanyak N.
 
 ### 3. Buatlah program yang mengimplementasikan rekursif untuk menampilkan faktor bilangan dari suatu N, atau bilangan yang apa saja yang habis membagi N. Masukan terdiri dari sebuah bilangan bulat positif N. Keluaran terdiri dari barisan bilangan yang menjadi faktor dari N (terurut dari 1 hingga N ya).
@@ -95,7 +95,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/raflinurh/109082500152_Rafli/blob/main/modul5/output/output-soal3.go)
+![Screenshot Output Unguided 1_1](https://github.com/rflnhdyt626/109082500152_Rafli/blob/main/modul5/output/output-soal3.go)
 Program ini berfungsi untuk menampilkan semua faktor dari sebuah bilangan bulat positif N menggunakan rekursi, yaitu dengan memeriksa setiap bilangan dari 1 hingga N dan mencetak bilangan yang habis membagi N.
 
 ### 4. Buatlah program yang mengimplementasikan rekursif untuk menampilkan barisan bilangan tertentu. Masukan terdiri dari sebuah bilangan bulat positif N. Keluaran terdiri dari barisan bilangan dari N hingga 1 dan kembali ke N.
@@ -124,7 +124,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/raflinurh/109082500152_Rafli/blob/main/modul5/output/output-soal4.go)
+![Screenshot Output Unguided 1_1](https://github.com/rflnhdyt626/109082500152_Rafli/blob/main/modul5/output/output-soal4.go)
 Program ini berfungsi untuk menampilkan barisan bilangan secara rekursif dengan pola menurun dari n hingga 1, lalu dilanjutkan kembali secara menaik dari 1 hingga n, sehingga menghasilkan urutan yang simetris.
 
 ### 5. Buatlah program yang mengimplementasikan rekursif untuk menampilkan barisan bilangan ganjil. Masukan terdiri dari sebuah bilangan bulat positif N. Keluaran terdiri dari barisan bilangan ganjil dari 1 hingga N.
@@ -154,7 +154,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/raflinurh/109082500152_Rafli/blob/main/modul5/output/output-soal5.go)
+![Screenshot Output Unguided 1_1](https://github.com/rflnhdyt626/109082500152_Rafli/blob/main/modul5/output/output-soal5.go)
 Program ini berfungsi untuk menampilkan semua bilangan ganjil dari 1 hingga n menggunakan rekursi. Program menerima sebuah bilangan bulat sebagai input, kemudian fungsi printGanjil akan memanggil dirinya sendiri dari nilai terkecil sampai n dan mencetak hanya bilangan yang bernilai ganjil secara berurutan.
 
 ### 6. Buatlah program yang mengimplementasikan rekursif untuk mencari hasil pangkat dari dua buah bilangan. Masukan terdiri dari bilangan bulat x dan y. Keluaran terdiri dari hasil x dipangkatkan y. Catatan: diperbolehkan menggunakan asterik "*", tapi dilarang menggunakan import "math".
@@ -181,6 +181,6 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/raflinurh/109082500152_Rafli/blob/main/modul5/output/output-soal6.go)
+![Screenshot Output Unguided 1_1](https://github.com/rflnhdyt626/109082500152_Rafli/blob/main/modul5/output/output-soal6.go)
 Program ini berfungsi untuk menghitung hasil pemangkatan dua bilangan bulat, yaitu x dipangkatkan y, dengan menggunakan fungsi rekursif. Program menerima input nilai x dan y, lalu memprosesnya dengan kasus dasar saat y bernilai 0 sehingga hasilnya 1, sedangkan untuk nilai y lainnya program akan mengalikan x secara berulang melalui pemanggilan fungsi terhadap y-1 hingga diperoleh hasil akhir, kemudian menampilkannya ke layar.
 
